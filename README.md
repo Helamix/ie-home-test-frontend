@@ -3,9 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Running the web page
-Open a terminal in the project directory.
-If this is the first time you run the web page run 'npm install'.
-Next, run 'npm start'
+Open a terminal in the project directory.\
+If this is the first time you run the web page run 'npm install'.\
+Next, run 'npm start'\
 The web should opne in the browser or [http://localhost:3000](http://localhost:3000)
 
 ## Available Scripts
